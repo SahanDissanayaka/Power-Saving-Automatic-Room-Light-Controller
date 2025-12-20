@@ -24,7 +24,7 @@ The Power Saving Automatic Light Controller is designed to automatically control
 
 - Controlled by ATMEGA328PU micro-controller
 - Motion detection using two ultrasonic sensors
-- Communication with receiver using 433 MHz transmitter
+- Communication with receiver using 433MHz transmitter
 - Wi-Fi updates via ESP8266 module
 - Powered by two 3.7V rechargeable batteries
 
@@ -33,7 +33,7 @@ The Power Saving Automatic Light Controller is designed to automatically control
 ![Alt text](Images/Receiver_photo.jpg)
 
 - Controlled by ATMEGA328PU micro-controller
-- Communication with transmitter using 433 MHz receiver
+- Communication with transmitter using 433MHz receiver
 - Power supply: 230V AC to 5V DC step-down transformer
 
 ## Circuit Design
